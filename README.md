@@ -3,6 +3,17 @@
 
 Hello! I'm Padmadev, currently pursuing my B.E. Computer Science and Engineering (CSE) at Kalaignar Karunanidhi Institute of Technology (KIT), Coimbatore. I'm passionate about technology and programming, and I'm actively working to build skills in this exciting field.
 
+## Projects
+1. [Classic Sudoku Puzzles](https://padmadevd.itch.io/classic-sudoku-puzzles)
+2. [AGL](https://github.com/padmadevd/AGL)
+3. [Personal Portfolio](https://github.com/padmadevd/web_portfolio)
+
+## Achievements
+### Contributions
+I have contributed to the following open source projects:
+- [Raylib](https://github.com/raysan5/raylib) - [Commit link](https://github.com/raysan5/raylib/pull/4947)
+- [Raymob](https://github.com/Bigfoot71/raymob) - [Commit link](https://github.com/Bigfoot71/raymob/pull/37)
+
 ## Technical Skills
 ### Programming Languages:
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,16 +30,5 @@ Hello! I'm Padmadev, currently pursuing my B.E. Computer Science and Engineering
 ## Github Contribution
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=padmadevd)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Projects
-1. [Classic Sudoku Puzzles](https://padmadevd.itch.io/classic-sudoku-puzzles)
-2. [AGL](https://github.com/padmadevd/AGL)
-3. [Personal Portfolio](https://github.com/padmadevd/web_portfolio)
-
 ## leetcode profile
 ![](https://leetcard.jacoblin.cool/padmadevd?ext=heatmap)
-
-## Achievements
-### Contributions
-I have contributed to the following open source projects:
-- [Raylib](https://github.com/raysan5/raylib) - [Commit link](https://github.com/raysan5/raylib/pull/4947)
-- [Raymob](https://github.com/Bigfoot71/raymob) - [Commit link](https://github.com/Bigfoot71/raymob/pull/37)
