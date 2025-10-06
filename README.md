@@ -1,7 +1,5 @@
-- 👀 I’m interested in art and technology (video games, computers, devices, ..etc)
+- 👀 I’m interested in technology and art (computers, devices, video games, ..etc)
 - and i love opensource projects
-
-- [check out my art page](https://www.instagram.com/padmadevd.draws/)
 
 <!---
 padmadevd/padmadevd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
