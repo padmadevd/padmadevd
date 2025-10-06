@@ -1,6 +1,6 @@
 ## About
 ### Padmadev D
-Hello! I'm Padmadev, currently pursuing my B.E. in Computer Science and Engineering (CSE) at Kalaignar Karunanidhi Institute of Technology (KKIT) in Coimbatore. I'm passionate about technology and programming, and I'm actively working to build skills in this exciting field.
+Hello! I'm Padmadev, currently pursuing my B.E. Computer Science and Engineering (CSE) at Kalaignar Karunanidhi Institute of Technology (KIT), Coimbatore. I'm passionate about technology and programming, and I'm actively working to build skills in this exciting field.
 
 ## Technical Skills
 ### Programming Languages:
