@@ -1,5 +1,6 @@
 ## About
-### Padmadev D
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=1000&pause=2000&center=true&multiline=true&width=435&height=100&lines=Padmadev+D;Computer+Programmer)](https://git.io/typing-svg)
+
 Hello! I'm Padmadev, currently pursuing my B.E. Computer Science and Engineering (CSE) at Kalaignar Karunanidhi Institute of Technology (KIT), Coimbatore. I'm passionate about technology and programming, and I'm actively working to build skills in this exciting field.
 
 ## Technical Skills
