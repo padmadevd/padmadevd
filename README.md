@@ -10,7 +10,7 @@ Hello! I'm Padmadev, currently pursuing my B.E. Computer Science and Engineering
 ### Backend:
   ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge), ![SQL](https://img.shields.io/badge/-SQL-000000?logo=mysql&logoColor=4479A1&style=for-the-badge), ![REST API](https://img.shields.io/badge/REST_API-007ACC?style=for-the-badge&logo=api&logoColor=white)
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=padmadevd)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=padmadevd)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=padmadevd)
