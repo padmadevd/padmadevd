@@ -10,6 +10,8 @@
 ### Backend:
   ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge), ![SQL](https://img.shields.io/badge/-SQL-000000?logo=mysql&logoColor=4479A1&style=for-the-badge), ![REST API](https://img.shields.io/badge/REST_API-007ACC?style=for-the-badge&logo=api&logoColor=white)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=padmadevd)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Achievements
 I have contributed to the following open source projects:
 - [Raylib](https://github.com/raysan5/raylib)
