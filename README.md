@@ -14,6 +14,12 @@ Hello! I'm Padmadev, currently pursuing my B.E. Computer Science and Engineering
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=padmadevd)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Achievements
+
+### Projects
+1. [Classic Sudoku Puzzles](https://padmadevd.itch.io/classic-sudoku-puzzles)
+2. [AGL](https://github.com/padmadevd/AGL)
+3. [Personal Portfolio](https://github.com/padmadevd/web_portfolio)
+
 I have contributed to the following open source projects:
 - [Raylib](https://github.com/raysan5/raylib)
 - [Raymob](https://github.com/Bigfoot71/raymob)
