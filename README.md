@@ -11,9 +11,9 @@ Hello! I'm Padmadev, currently pursuing my B.E. Computer Science and Engineering
   ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge), ![SQL](https://img.shields.io/badge/-SQL-000000?logo=mysql&logoColor=4479A1&style=for-the-badge), ![REST API](https://img.shields.io/badge/REST_API-007ACC?style=for-the-badge&logo=api&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=padmadevd&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=padmadevd&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=padmadevd&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=padmadevd)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=padmadevd)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=padmadevd)
 
 ## Github Activity
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=padmadevd)](https://github.com/ashutosh00710/github-readme-activity-graph)
