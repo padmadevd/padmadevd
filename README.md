@@ -1,6 +1,5 @@
-## Padmadev D
-
-### BE Computer Science & Engineering
+### Padmadev D
+BE Computer Science & Engineering
 
 ---
 
