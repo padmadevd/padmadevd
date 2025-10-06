@@ -6,9 +6,9 @@
 ### Programming Languages:
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### Frontend:
-  React, Redux, JQuery
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge), ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge), ![JQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
 ### Backend:
-  Express.js, SQL, REST
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge), ![SQL](https://img.shields.io/badge/-SQL-000000?logo=mysql&logoColor=4479A1&style=for-the-badge), ![REST API](https://img.shields.io/badge/REST_API-007ACC?style=for-the-badge&logo=api&logoColor=white)
 
 ## Achievements
 I have contributed to the following open source projects:
