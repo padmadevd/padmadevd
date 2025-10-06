@@ -1,10 +1,10 @@
-# Padmadev
+### Padmadev
 
 I am currently pursuing a Bachelor of Engineering in Computer Science and Engineering at Kalaignarkarunanidhi Institute of Technology, Coimbatore.
 
 ---
 
-## Technical Skills
+### Technical Skills
 
 - Programming Languages: C, C++, Java, Python, JavaScript
 - Frameworks and Libraries: React
@@ -12,7 +12,7 @@ I am currently pursuing a Bachelor of Engineering in Computer Science and Engine
 
 ---
 
-## Open Source Contributions
+### Open Source Contributions
 
 I have contributed to the following open source projects:
 
@@ -21,7 +21,7 @@ I have contributed to the following open source projects:
 
 ---
 
-## Contact
+### Contact
 
 (You may add contact information here if desired.)
 
