@@ -1,6 +1,6 @@
-### Padmadev
+### Padmadev D
 
-I am currently pursuing a Bachelor of Engineering in Computer Science and Engineering at Kalaignarkarunanidhi Institute of Technology, Coimbatore.
+#### BE Computer Science & Engineering
 
 ---
 
