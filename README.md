@@ -15,7 +15,7 @@ Hello! I'm Padmadev, currently pursuing my B.E. Computer Science and Engineering
 ![](https://nirzak-streak-stats.vercel.app/?user=padmadevd)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=padmadevd)
 
-## Github Activity
+## Github Contribution
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=padmadevd)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Projects
