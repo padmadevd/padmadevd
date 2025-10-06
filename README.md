@@ -1,9 +1,27 @@
-# Padmadev D
+# Padmadev
 
-- I’m interested in technology and art (computers, devices, video games, ..etc)
-- and i love opensource projects
+I am currently pursuing a Bachelor of Engineering in Computer Science and Engineering at Kalaignarkarunanidhi Institute of Technology, Coimbatore.
 
-<!---
-padmadevd/padmadevd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Technical Skills
+
+- Programming Languages: C, C++, Java, Python, JavaScript
+- Frameworks and Libraries: React
+- Databases: SQL
+
+---
+
+## Open Source Contributions
+
+I have contributed to the following open source projects:
+
+- Raylib – a simple and easy-to-use library for game programming.
+- Raymob – community projects and utilities associated with Raylib.
+
+---
+
+## Contact
+
+(You may add contact information here if desired.)
+
