@@ -1,5 +1,5 @@
 ### Padmadev D
-BE Computer Science & Engineering
+***B E Computer Science and Engineering***
 
 ## Technical Skills
 ### Programming Languages:
