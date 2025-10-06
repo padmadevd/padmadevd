@@ -24,6 +24,9 @@ Hello! I'm Padmadev, currently pursuing my B.E. Computer Science and Engineering
 2. [AGL](https://github.com/padmadevd/AGL)
 3. [Personal Portfolio](https://github.com/padmadevd/web_portfolio)
 
+## leetcode profile
+![](https://leetcard.jacoblin.cool/padmadevd?ext=heatmap)
+
 ## Achievements
 ### Contributions
 I have contributed to the following open source projects:
