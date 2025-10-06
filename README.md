@@ -9,9 +9,7 @@ BE Computer Science & Engineering
 ### Backend:
   Express.js, SQL, REST
 
-
-
 ## Achievements
 I have contributed to the following open source projects:
-- Raylib – a simple and easy-to-use library for game programming.
-- Raymob – community projects and utilities associated with Raylib.
+- [Raylib](https://github.com/raysan5/raylib)
+- [Raymob](https://github.com/Bigfoot71/raymob)
